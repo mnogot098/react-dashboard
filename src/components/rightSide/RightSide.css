@@ -1,0 +1,7 @@
+.rightSide {
+  padding-left: 10px;
+  display: flex;
+  flex-direction: column;
+  width: 95%;
+  gap: 1rem;
+}
